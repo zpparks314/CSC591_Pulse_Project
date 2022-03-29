@@ -1,0 +1,5 @@
+Nandan made significant contributions to the single-qubit calibration implementation and to writing the final report. 
+
+Zachary made significant contributions to both implementations and to writing the final report.
+
+The code submitted was the main Notebooks used, however there is a GitHub available, although it is private. If access is required, please feel free to email me.
